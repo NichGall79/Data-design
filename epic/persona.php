@@ -6,15 +6,19 @@
 </head>
 <body>
 		<h1> Billy </h1>
+		<h2> 19 </h2>
 	<img src="Chad.jpg" alt="Picture of Chad"
-		  class="left"/>
+		  class="center"/>
+		<div>
+
 		<ul>
-			<li> Billy is an upcoming soundcloud rapper</li>
+			<li> Bily </li>
 			<li> Billy enjoys buying Supreme and designer clothes </li>
 			<li> Doesn't have a job and lives with his mother</li>
 			<li> Surprisingly methodical in finding deals </li>
 			<li> Self proclaimed "Best Rapper Alive"</li>
+			<li> </li>
 		</ul>
-<div
+		</div>
 </body>
 </html>
