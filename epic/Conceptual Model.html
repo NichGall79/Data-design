@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Conceptual Model</title>
+</head>
+<body>
+<h1> Entities and Attributes </h1>
+<div>
+	<p> User </p>
+<ul>
+	<li> UserId (primary key) </li>
+	<li> UserName </li>
+	<li> User Payment Information </li>
+</ul>
+</div>
+<div>
+	<p> Cart </p>
+<ul>
+	<li> Cart Item Id (foreign key) </li>
+	<li> Cart User Id (foreign key) </li>
+	<li> Cart Bidding </li>
+</ul>
+</div>
+<div>
+	<p> Product/Item </p>
+<ul>
+	<li> Product Id (primary key) </li>
+	<li> Product Brand  </li>
+	<li> Product Price </li>
+</ul>
+</div>
+<div>
+	<p> Relations </p>
+<ul>
+	<li> The user can add multiple items to thier cart  </li>
+	<li> Cart Bidding receives feedback from multiple users </li>
+
+
+</ul>
+</div>
+
+</body>
+</html>
